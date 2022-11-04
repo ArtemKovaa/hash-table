@@ -1,0 +1,6 @@
+5
+0 AAAA com1 name1 1
+1 AAAA com2 name2 1
+2 BBBB com3 name3 1
+3 EEEE com4 name4 1
+100 GGGG com100 name100 1
